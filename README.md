@@ -50,7 +50,7 @@
 - 📍 **[REGEO – Smart Attendance System](https://github.com/isvarya30/regeo)**  
   🔒 Geofencing-based attendance validation, role-based admin dashboard, notifications, responsive UI  
 
-- 👾 **[Algo Nightmare – Gamified DSA Learning Platform](https://github.com/isvarya30/algo-nightmare)**  
+- 👾 **[Algo Nightmare – Gamified DSA Learning Platform](https://github.com/isvarya30/Algo-Nightmare)**  
   🎮 Interactive levels, progressive difficulty, mock interview simulations for problem-solving  
 
 - 🔐 **[SkillSwap – Full-Stack MERN Project](https://github.com/isvarya30/skillswap)**  
