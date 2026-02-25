@@ -45,7 +45,7 @@
 
 ## 📂 Projects
 <details>
-  <summary>🔗 Click to Expand</summary>
+
 
 - 📍 **[REGEO – Smart Attendance System](https://github.com/abdulshhhh/smart-attendance-geofencing-code)**  
   🔒 Geofencing-based attendance validation, role-based admin dashboard, notifications, responsive UI  
