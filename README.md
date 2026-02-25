@@ -17,11 +17,7 @@
 
 ---
 
-## 🛠 Skills
-- 💻 **Languages:** Java, C, Python  
-- 🌐 **Web Development:** HTML, CSS, JavaScript (ES6+), React, Node.js, Express.js, MongoDB, Tailwind CSS, DataTables, Moment.js  
-- 🛠 **Tools:** Git/GitHub, Postman, VS Code, Figma  
-
+## 🛠 Skills - 💻 **Languages:** Java, C, Python, JavaScript (ES6+), TypeScript - 🌐 **Web Development:** HTML5, CSS3, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, DataTables, Moment.js - 🖌️ **UI/UX & Design:** Responsive Design, Wireframing, Prototyping, Figma, Accessibility (WCAG) - 🛠 **Tools & Platforms:** Git/GitHub, Postman, VS Code, npm, Netlify, Vercel - 🔒 **Security & Integration:** Secure Authentication, RESTful APIs, JSON, Regex Validation, Data Flow Debugging - 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL (basic) - ☁️ **Cloud & Deployment:** GitHub Pages, Netlify, Vercel - 🤝 **Soft Skills:** Problem-Solving, Team Collaboration, Communication, Eagerness to Learn
 ---
 
 ## 💼 Experience
