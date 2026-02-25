@@ -47,7 +47,7 @@
 <details>
   <summary>🔗 Click to Expand</summary>
 
-- 📍 **[REGEO – Smart Attendance System](https://github.com/isvarya30/regeo)**  
+- 📍 **[REGEO – Smart Attendance System](https://github.com/abdulshhhh/smart-attendance-geofencing-code)**  
   🔒 Geofencing-based attendance validation, role-based admin dashboard, notifications, responsive UI  
 
 - 👾 **[Algo Nightmare – Gamified DSA Learning Platform](https://github.com/isvarya30/Algo-Nightmare)**  
@@ -77,8 +77,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isvarya30&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isvarya30&layout=compact&theme=radical" alt="Top Languages" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isvarya30&theme=radical" alt="GitHub Streak" />
 </p>
 
