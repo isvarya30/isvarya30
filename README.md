@@ -1,9 +1,19 @@
-## Hi there 👋
-# 👩‍💻 Anu Isvarya
+<h1 align="center">👩‍💻 Anu Isvarya</h1>
+<p align="center">
+  🎨 Frontend Developer | ⚡ UI/UX Designer | 🌐 Full-Stack Explorer <br/>
+  📚 B.E. Information Technology, St. Joseph's College of Engineering (2027) | CGPA: 8.69 <br/>
+  💡 Passionate about building responsive, secure, and user-friendly web applications
+</p>
 
-🎨 Frontend Developer | ⚡ UI/UX Designer | 🌐 Full-Stack Explorer  
-📚 B.Tech Information Technology, St. Joseph's College of Engineering (2027) | CGPA: 8.69  
-💡 Passionate about building responsive, secure, and user-friendly web applications  
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb" />
+  <img src="https://img.shields.io/badge/Design-Figma-orange?logo=figma" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?logo=github" />
+</p>
 
 ---
 
@@ -15,28 +25,38 @@
 ---
 
 ## 💼 Experience
-- 🏢 **Web Developer Intern – AMICO Solution Pvt. Ltd (Jun–Jul 2025)**  
+<details>
+  <summary>🏢 Internships</summary>
+
+- **Web Developer Intern – AMICO Solution Pvt. Ltd (Jun–Jul 2025)**  
   ✔️ Client/server-side form validation  
   ✔️ Dynamic DOM manipulation for real-time feedback  
   ✔️ Responsive portfolio using HTML, CSS, JavaScript  
 
-- 🏢 **Web Developer Intern – Humworld Solution Pvt. Ltd (Feb 2026–Present)**  
+- **Web Developer Intern – Humworld Solution Pvt. Ltd (Feb 2026–Present)**  
   ✔️ Interactive web components with JavaScript  
   ✔️ DataTables integration for searchable tables  
   ✔️ Moment.js for date/time formatting  
   ✔️ Debugging & enhancing UI responsiveness  
 
+</details>
+
 ---
 
 ## 📂 Projects
-- 📍 **REGEO – Smart Attendance System (Frontend Developer)**  
+<details>
+  <summary>🔗 Click to Expand</summary>
+
+- 📍 **[REGEO – Smart Attendance System](https://github.com/isvarya30/regeo)**  
   🔒 Geofencing-based attendance validation, role-based admin dashboard, notifications, responsive UI  
 
-- 👾 **Algo Nightmare – Gamified DSA Learning Platform (Frontend Developer)**  
+- 👾 **[Algo Nightmare – Gamified DSA Learning Platform](https://github.com/isvarya30/algo-nightmare)**  
   🎮 Interactive levels, progressive difficulty, mock interview simulations for problem-solving  
 
-- 🔗 **SkillSwap – Full-Stack MERN Project (Solo Developer)**  
-  🔐 Secure authentication, RESTful APIs, scalable data storage, responsive UI, seamless integration  
+- 🔐 **[SkillSwap – Full-Stack MERN Project](https://github.com/isvarya30/skillswap)**  
+  Secure authentication, RESTful APIs, scalable data storage, responsive UI, seamless integration  
+
+</details>
 
 ---
 
@@ -55,20 +75,15 @@
 
 ---
 
-✨ *“Building digital experiences that balance usability, performance, and security.”*
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isvarya30&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isvarya30&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isvarya30&theme=radical" alt="GitHub Streak" />
+</p>
 
+---
 
-<!--
-**isvarya30/isvarya30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+✨ <i>“Building digital experiences that balance usability, performance, and security.”</i> ✨
+</p>
