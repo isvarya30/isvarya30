@@ -86,11 +86,6 @@
 
 ---
 
-## 📜 Certificates
-- 🐍 Python for Data Science – NPTEL  
-- 💻 Programming in C – Infosys Springboard  
-- 🗄️ MySQL – Coursera  
-
 ---
 
 ## 📊 GitHub Stats
